@@ -113,7 +113,7 @@ class MultiAgentDialectic:
 **Training required**: Zero
 
 ```bash
-git clone https://github.com/username/ma_llm
+git clone https://github.com/jonnagel/ma_llm
 cd ma_llm
 pip install -r requirements.txt
 python main.py --target "Chicago healthcare data roles"
