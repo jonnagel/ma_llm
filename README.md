@@ -3,6 +3,8 @@
 ---
 🚧 Project Status: Active Development 🚧
 
+> **Architectural Note:** The multi-agent dialectic approach utilized in this framework has been partially superseded by native model-blending endpoints, specifically [OpenRouter Fusion](https://openrouter.ai/labs/fusion). While this repository remains functional for specialized, isolated-agent scoring pipelines, native fusion layers now handle generalized multi-LLM consensus and bias mitigation with lower latency.
+
 This repository is an active work in progress. The code is provided as-is and is not yet considered production-ready.
 
 ---
